@@ -1,0 +1,2 @@
+# Average-Price-Rent
+The scope of this project was to simulate and visualize the average price rent per square meter (m²) over time. To accomplish this, I simulated data using the Geometric Brownian Motion (GBM) in the R programming language. However, to make it even more interesting, I attempted to visualize the prices using the 𝗴𝗴𝗽𝗹𝗼𝘁 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗶𝗻 𝗥 and 𝗧𝗮𝗯𝗹𝗲𝗮𝘂 and aimed to create identical graphs.
